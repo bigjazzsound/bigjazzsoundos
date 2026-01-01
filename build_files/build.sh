@@ -16,6 +16,7 @@ pkgs=(
   libva-utils
   python3
   python3-pip
+  python3-lxml
   ripgrep
   smartmontools
   unzip
