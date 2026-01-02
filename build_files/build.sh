@@ -7,6 +7,7 @@ RELEASE="$(rpm -E %fedora)"
 pkgs=(
   bcc
   bcc-tools
+  butane
   fd-find
   fish
   igt-gpu-tools
