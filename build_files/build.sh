@@ -21,6 +21,7 @@ pkgs=(
   ripgrep
   smartmontools
   unzip
+  virtiofsd
 )
 
 rpm-ostree install \
