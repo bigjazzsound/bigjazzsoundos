@@ -19,6 +19,8 @@ pkgs=(
   python3-pip
   python3-lxml
   ripgrep
+  selinux-policy
+  selinux-policy-targeted
   smartmontools
   unzip
   virtiofsd
